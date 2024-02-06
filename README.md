@@ -1,1 +1,24 @@
-# RM
+- Linux
+    - admin 1: https://www.youtube.com/playlist?list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7
+    - admin 2: https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/
+- Nginx 
+    - https://www.youtube.com/watch?v=7VAI73roXaY&t=2234s
+- Bash Scripting 
+    - https://www.youtube.com/playlist?list=PLqi7yZF-SFcYzox4VgUSkaksGAAIhya7B
+- Version Control (Git)
+    - https://www.youtube.com/watch?v=Q6G-J54vgKc&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=3
+- Cloud (Aws) (It is enough to start with the first 4 videos as a beginning) 
+    - https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
+- DevOps
+    - https://drive.google.com/drive/folders/1JH3WprlSbDCIntWqCd7EwvZmlTemTsxi
+- Docker 
+    - https://www.youtube.com/watch?v=PrusdhS2lmo
+- Kubernetes (Important to see the 2 courses together in order)
+    - https://www.youtube.com/playlist?list=PLCsn73jgrZ7cfrxxA5NU65G90-v9k8otq
+    - https://www.youtube.com/playlist?list=PLTbS-zwfzODB7RVIedHNql5u0ObBgbjjH
+- Terraform 
+    - https://drive.google.com/drive/folders/1QgE2QqlKHN0x_Q4R8sHqcSmBltkMsmQ8
+- Ansible 
+    - https://drive.google.com/drive/folders/1JiVLYEBEVXt2WkTbXNb-u-qk-yNRio8S
+- Jenkins 
+    - https://drive.google.com/drive/folders/1yhXMemnq6HHEQcNMGZl-K9PRcxSnGqG0
