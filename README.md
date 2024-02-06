@@ -1,6 +1,6 @@
 - Linux
-    - admin 1: https://www.youtube.com/playlist?list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7
-    - admin 2: https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/
+    - admin 1: https://www.youtube.com/playlist?list=PLvbyo73L4vfvxbFgbbCSNNWqO1HGvrws9
+    - admin 2: https://www.youtube.com/playlist?list=PLvbyo73L4vfslrED-KLJUyXOTDhIzvlCk
 - Nginx 
     - https://www.youtube.com/watch?v=7VAI73roXaY&t=2234s
 - Bash Scripting 
