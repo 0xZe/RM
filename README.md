@@ -1,6 +1,8 @@
 - Linux
     - admin 1: https://www.youtube.com/playlist?list=PLvbyo73L4vfvxbFgbbCSNNWqO1HGvrws9
     - admin 2: https://www.youtube.com/playlist?list=PLvbyo73L4vfslrED-KLJUyXOTDhIzvlCk
+- Network (First 25 videos but preffered to see all the playlist)
+    - https://www.youtube.com/playlist?list=PL5ENO5xzfLmIG9WNgKftZWsVAGkfWHbfh
 - Nginx 
     - https://www.youtube.com/watch?v=7VAI73roXaY&t=2234s
 - Bash Scripting 
@@ -22,3 +24,6 @@
     - https://drive.google.com/drive/folders/1JiVLYEBEVXt2WkTbXNb-u-qk-yNRio8S
 - Jenkins 
     - https://drive.google.com/drive/folders/1yhXMemnq6HHEQcNMGZl-K9PRcxSnGqG0
+
+
+- Note: This roadmap is enough as a beginning to start work on real-life projects , There are other advanced tools and technologies you should         learn later.
